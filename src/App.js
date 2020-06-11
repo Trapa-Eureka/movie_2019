@@ -59,4 +59,4 @@ Class Component is Class. but extend from react component and print screen.
 React is run about our render method of our class component. it's automatic.
 */
 // state is an object.
-// React when calling setState performs the render process again.
+// React when calling setState performs the render process again.6
